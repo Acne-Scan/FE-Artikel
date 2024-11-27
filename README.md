@@ -116,12 +116,13 @@ Acne is one of the most common skin conditions affecting millions globally, lead
    - Access to research papers and studies.
 
 ---
-Contributors
-Name	Role	
-M Fadhly Rafiansyah	ML Engineer	
-Naufal Hadi D	ML Engineer	
-Zidan Dwi P ML Engineer	
-M Akbar Permanatmaja Cloud Computing
-Dimas Anugerah P Cloud Computing
-Deyan Laudza P Mobile Developer
-Hendrata Dewabrata Mobile Developer
+## Contributors
+| **Name** |	**Role** |	
+|------------------|------------------|
+| M Fadhly Rafiansyah |	ML Engineer |
+| Naufal Hadi D |	ML Engineer	|
+| Zidan Dwi P | ML Engineer |
+| M Akbar Permanatmaja | Cloud Computing |
+| Dimas Anugerah P | Cloud Computing |
+| Deyan Laudza P | Mobile Developer |
+| Hendrata Dewabrata | Mobile Developer |
