@@ -7,7 +7,7 @@ https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=
 ## ERD
 https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing
 
-====================================================================================================================================================
+===========================================================================================
 # AcneScan: Empowering Vulnerable Communities for Health and Well-being
 
 ## Table of Contents
@@ -92,8 +92,8 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 - **Resources**: Android emulators, Figma designs
 
 ### Cloud Computing (CC)
-- **Tools**: Google Cloud Platform (GCP), Firebase SDK
-- **Resources**: Firebase Authentication, database hosting, GCP APIs
+- **Tools**: Google Cloud Platform (GCP), Docker
+- **Resources**: Golang, Docker CI/CD, database hosting, GCP APIs
 
 ---
 
