@@ -8,13 +8,14 @@ const ArticleTable = ({ articles, onEdit, onDelete }) => {
           <th>Title</th>
           <th>Author</th>
           <th>Content</th>
+          <th>Image</th>
           <th>Actions</th>
         </tr>
       </thead>
       <tbody>
         {articles.length === 0 ? (
           <tr>
-            <td colSpan="4" className="text-center">
+            <td colSpan="5" className="text-center">
               No articles available.
             </td>
           </tr>
@@ -24,6 +25,9 @@ const ArticleTable = ({ articles, onEdit, onDelete }) => {
               <td>{article.title}</td>
               <td>{article.author}</td>
               <td>{article.content}</td>
+              <td>
+                <img src={article.image} alt={article.title} width="50" />
+              </td>
               <td>
                 <button
                   className="btn btn-warning btn-sm me-2"

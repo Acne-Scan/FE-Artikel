@@ -5,11 +5,17 @@ const ArticleForm = ({ onSave, initialData }) => {
     title: "",
     content: "",
     author: "",
+    image: null, // nambahin file gambar
   });
 
   useEffect(() => {
     if (initialData) {
-      setFormData(initialData);
+      setFormData({
+        title: initialData.title,
+        content: initialData.content,
+        author: initialData.author,
+        image: null, // reset file input buat di edit
+      });
     }
   }, [initialData]);
 
@@ -18,10 +24,14 @@ const ArticleForm = ({ onSave, initialData }) => {
     setFormData({ ...formData, [name]: value });
   };
 
+  const handleFileChange = (e) => {
+    setFormData({ ...formData, image: e.target.files[0] }); // nyimpen file gambar
+  };
+
   const handleSubmit = (e) => {
     e.preventDefault();
     onSave(formData);
-    setFormData({ title: "", content: "", author: "" });
+    setFormData({ title: "", content: "", author: "", image: null });
   };
 
   return (
@@ -57,6 +67,15 @@ const ArticleForm = ({ onSave, initialData }) => {
           value={formData.author}
           onChange={handleChange}
           required
+        />
+      </div>
+      <div className="mb-3">
+        <label className="form-label">Image</label>
+        <input
+          type="file"
+          className="form-control"
+          name="image"
+          onChange={handleFileChange}
         />
       </div>
       <button type="submit" className="btn btn-primary">
