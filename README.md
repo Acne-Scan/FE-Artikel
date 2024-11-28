@@ -7,7 +7,7 @@ https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=
 ## ERD
 https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing
 
-===========================================================================================
+---
 # AcneScan: Empowering Vulnerable Communities for Health and Well-being
 
 ## Table of Contents
@@ -108,7 +108,7 @@ Acne is one of the most common skin conditions affecting millions globally, lead
    - Guidance on deploying ML models on mobile devices.
 
 3. **Cloud Computing**:
-   - GCP credits (Firebase, Cloud Storage).
+   - GCP credits (Cloud Storage, App Engine).
    - Support for database hosting and scaling.
 
 4. **Domain Expertise**:
@@ -122,7 +122,7 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 | M Fadhly Rafiansyah |	ML Engineer |
 | Naufal Hadi D |	ML Engineer	|
 | Zidan Dwi P | ML Engineer |
-| M Akbar Permanatmaja | Cloud Computing |
+| M Akbar Permanaatmaja | Cloud Computing |
 | Dimas Anugerah P | Cloud Computing |
 | Deyan Laudza P | Mobile Developer |
 | Hendrata Dewabrata | Mobile Developer |
