@@ -118,6 +118,6 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 | Hendrata Dewabrata | Mobile Developer |
 
 ## References & Resources
- - ERD Diagram(https://colab.research.google.com/drive/1ua0q2qcxx7k9iddgfwSwHCLU7FDHRDwP?usp=sharing)
- - UI Design on Figma(https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=rMoNEOXyFtX7Lft7-1)
- - Training Notebook (Google Colab)(https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing)
+ - [ERD Diagram](https://colab.research.google.com/drive/1ua0q2qcxx7k9iddgfwSwHCLU7FDHRDwP?usp=sharing)
+ - [UI Design on Figma](https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=rMoNEOXyFtX7Lft7-1)
+ - [Training Notebook](https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing)
