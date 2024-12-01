@@ -1,0 +1,1 @@
+alter Table article add COLUMN name varchar(255) AFTER article_id;
