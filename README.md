@@ -1,13 +1,3 @@
-## TRAINING
-https://colab.research.google.com/drive/1ua0q2qcxx7k9iddgfwSwHCLU7FDHRDwP?usp=sharing
-
-## FIGMA
-https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=rMoNEOXyFtX7Lft7-1
-
-## ERD
-https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing
-
----
 # AcneScan: Empowering Vulnerable Communities for Health and Well-being
 
 ## Table of Contents
@@ -108,7 +98,7 @@ Acne is one of the most common skin conditions affecting millions globally, lead
    - Guidance on deploying ML models on mobile devices.
 
 3. **Cloud Computing**:
-   - GCP credits (Cloud Storage, App Engine).
+   - GCP credits (Cloud Storage, App Engine, Cloud Run, Cloud SQL, Artifact Registry).
    - Support for database hosting and scaling.
 
 4. **Domain Expertise**:
@@ -126,3 +116,8 @@ Acne is one of the most common skin conditions affecting millions globally, lead
 | Dimas Anugerah P | Cloud Computing |
 | Deyan Laudza P | Mobile Developer |
 | Hendrata Dewabrata | Mobile Developer |
+
+## References & Resources
+ - ERD Diagram(https://colab.research.google.com/drive/1ua0q2qcxx7k9iddgfwSwHCLU7FDHRDwP?usp=sharing)
+ - UI Design on Figma(https://www.figma.com/design/6pa8JwsBA4gaSe44W9mFaR/CAPSTONE-KITA?node-id=1-4&t=rMoNEOXyFtX7Lft7-1)
+ - Training Notebook (Google Colab)(https://drive.google.com/file/d/1uFfBO1LtWQiCZE-gWjOJ9yY2up6h7Wbf/view?usp=sharing)
