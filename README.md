@@ -10,6 +10,7 @@
 7. [Technical Stack](#technical-stack)
 8. [Support Needed](#support-needed)
 9. [Contributors](#contributors)
+10. [References and Resources](#references--resources)
 
 ---
 
