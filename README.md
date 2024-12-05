@@ -1,4 +1,5 @@
-# AcneScan: Empowering Vulnerable Communities for Health and Well-being
+# AcneScan - Acne Detection App
+Empowering Vulnerable Communities for Health and Well-being
 
 ## Table of Contents
 1. [Introduction](#introduction)
