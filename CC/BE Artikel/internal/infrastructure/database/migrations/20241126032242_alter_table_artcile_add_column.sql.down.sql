@@ -1,1 +1,0 @@
-alter Table article DROP COLUMN name;
